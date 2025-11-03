@@ -27,7 +27,7 @@ html, body {
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 24px;
-  gap: 0;
+  gap: 0;  
 }
 
 .main-navigation-container {
